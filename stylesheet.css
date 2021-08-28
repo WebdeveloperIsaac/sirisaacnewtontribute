@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(231, 210, 183);
+}
+#main{
+ text-align: center;
+}
+p{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.center{
+    display: block;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    max-width: 50%;
+}
